@@ -40,3 +40,4 @@
 /Users/siddharthraut/Desktop/College/6th-sem/Dotnet/consoleApp/obj/Debug/net8.0/consoleApp.pdb
 /Users/siddharthraut/Desktop/College/6th-sem/Dotnet/consoleApp/obj/Debug/net8.0/consoleApp.genruntimeconfig.cache
 /Users/siddharthraut/Desktop/College/6th-sem/Dotnet/consoleApp/obj/Debug/net8.0/ref/consoleApp.dll
+/Users/siddharthraut/Desktop/College/6th-sem/Dotnet/consoleApp/obj/Debug/net8.0/consoleApp.sourcelink.json

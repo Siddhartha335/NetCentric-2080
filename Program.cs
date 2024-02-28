@@ -36,9 +36,13 @@ var deepak = new Student("A",12,"deepak@gmail.com");
 
 // Console.WriteLine(x);
 
-var rashmi = new CSStudent("rashmi",2,"rashmi@gmail.com","Education Management System");
-Console.WriteLine(rashmi.PrintInfo());
+// var rashmi = new CSStudent("rashmi",2,"rashmi@gmail.com","Education Management System");
+// Console.WriteLine(rashmi.PrintInfo());
 
 
 // var numbers = new LINQLearner();
 // numbers.Learn();
+
+FileHandling fd = new();
+// fd.CreateFile();
+fd.ReadFile();
