@@ -4,7 +4,7 @@ using System.Collections.Generic;
 class ProjCollections
 {
 
-    void LearnCollections()
+    public void LearnCollections()
     {
 
         // double [] weights = new double[20];
@@ -12,7 +12,13 @@ class ProjCollections
         // string [][] names  = [["A","B","C"],[],[]];
 
         //Built in collections list,(dictionary) = (fast search)
-        List<string> studentNames = ["Sid", "Ritiz"];
+        List<string> studentNames = new();
+
+        studentNames.Add("Rista");
+        studentNames.Add("Senpai");
+        // foreach (string studentName in studentNames) {
+        //     Console.WriteLine(studentName);
+        // }
 
         // studentNames.
         Dictionary<string, char> studentGrades = new()
@@ -22,7 +28,11 @@ class ProjCollections
             ["Leo"] = 'C',
         };
 
-        Console.WriteLine(studentGrades["Sid"]);
+        studentGrades.Add("Rista",'E');
+
+        Console.Write(studentGrades["Rista"]);
+
+        // Console.WriteLine(studentGrades["Sid"]);
 
     }
 }

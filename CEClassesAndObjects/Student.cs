@@ -8,11 +8,11 @@ class Student {
     public Student(string name, byte rollNUmber,string email) {
         this.name = name;
         this.rollNUmber = rollNUmber;
-        this.Email = email;
+        Email = email;
     }
 
     public Student(string name,byte rollNUmber,string email, DateTime dob):this(name,rollNUmber,email) {
-        this.Dob = dob;
+        Dob = dob;
     }
     string name;
     public string Name {  // C sharp properties
@@ -28,10 +28,11 @@ class Student {
         }
     }
     public byte rollNUmber;
-    public DateTime Dob { get;}
+    public DateTime Dob { get;set;}
 
     //Auto implemented property
     public string Email {get; set;}
+
 
     public virtual string PrintInfo() {
         return $"My name is {name} and my roll number is {rollNUmber} and my email is {Email}";

@@ -36,5 +36,8 @@ class DataTypes
 
         // Console.WriteLine(numberOfStudents,population,millions);
 
+        // const long zeroOfMillion = 100000000;
+        
+
     }
 }

@@ -16,7 +16,6 @@ class LINQLearner
             new("Shyam",53,"shyam@gmail.com"),
             new("Geeta",14,"geeta@gmail.com"),
             new("Rista",44,"geeta@abc.com"),
-            new("Geeta",14,"geeta@abc.com"),
         ];
 
         var evenNumbers = numbers.Where(number => number % 2 == 0);

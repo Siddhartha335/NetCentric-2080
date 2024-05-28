@@ -1,4 +1,6 @@
-﻿using System;
+﻿using HelloWorld;
+using Practicing;
+using System;
 
 // Console.WriteLine("sdff");
 
@@ -23,14 +25,14 @@
 // g.Add(2,5);
 // g.Add<bool>(true,false);
 
-Student siddhartha = new();
-siddhartha.Name = "Siddhartha Raut";
-siddhartha.rollNUmber = 39;
-// siddhartha.Dob = DateTime.now;
+// Student siddhartha = new();
+// siddhartha.Name = "Siddhartha Raut";
+// siddhartha.rollNUmber = 39;
+// siddhartha.Dob = DateTime.Now;
 // siddhartha.PrintInfo();
 
 
-var deepak = new Student("A",12,"deepak@gmail.com");
+// var deepak = new Student("A",12,"deepak@gmail.com");
 // var annayuna = new Student("A",12,"deepak@gmail.com",);
 // var x = deepak.Name;
 
@@ -39,10 +41,34 @@ var deepak = new Student("A",12,"deepak@gmail.com");
 // var rashmi = new CSStudent("rashmi",2,"rashmi@gmail.com","Education Management System");
 // Console.WriteLine(rashmi.PrintInfo());
 
+// ProjCollections proj = new();
+// proj.LearnCollections();
+
 
 // var numbers = new LINQLearner();
 // numbers.Learn();
 
-FileHandling fd = new();
+// FileHandling fd = new();
 // fd.CreateFile();
-fd.ReadFile();
+// fd.ReadFile();
+
+
+//Practice
+
+Programs pr = new();
+// pr.getValue();
+// int i=20;
+// Console.WriteLine("Value is={0}",i);
+// pr.PassByValue(ref i);
+// Console.WriteLine("Value is={0}",i);
+// pr.Add(3,4);
+// pr.Arrays();
+// pr.Jagged();
+// pr.GenericsInAction();
+pr.LearnLinq();
+
+Practices prac = new();
+// prac.show();
+int [] ages = { 1, 2, 3,};
+// Console.Write(prac.MinMax(ages));
+// prac.LearnArray();
