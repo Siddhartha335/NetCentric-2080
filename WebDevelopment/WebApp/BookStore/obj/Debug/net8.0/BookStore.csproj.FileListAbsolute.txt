@@ -252,3 +252,4 @@
 /Users/siddharthraut/Desktop/College/6th-sem/Dotnet/WebDevelopment/WebApp/BookStore/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Security.Cryptography.ProtectedData.dll
 /Users/siddharthraut/Desktop/College/6th-sem/Dotnet/WebDevelopment/WebApp/BookStore/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Windows.Extensions.dll
 /Users/siddharthraut/Desktop/College/6th-sem/Dotnet/WebDevelopment/WebApp/BookStore/obj/Debug/net8.0/BookStore.csproj.Up2Date
+/Users/siddharthraut/Desktop/College/6th-sem/Dotnet/WebDevelopment/WebApp/BookStore/obj/Debug/net8.0/BookStore.sourcelink.json

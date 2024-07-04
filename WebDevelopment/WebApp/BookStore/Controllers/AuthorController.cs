@@ -10,7 +10,8 @@ public class AuthorController : Controller
         // Author a2 = new() { Id = 2, Name = "Rista Senpai", Gender = 'F', Address = "Texas,NY", Email = "ristasenpai54@gmail.com" };
         // Author a3 = new() { Id = 3, Name = "Yunisha", Gender = 'F', Address = "Kumaripati", Email = "yunisha11@gmail.com" };
         // Author a4 = new() { Id = 4, Name = "Rojina", Gender = 'F', Address = "Canberra Aus", Email = "rojina223@gmail.com" };
-        
+
+
         List<Author> authors = db.Authors.ToList();
         
         

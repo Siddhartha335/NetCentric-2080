@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Capitalizer
-build_property.ProjectDir = /Users/siddharthraut/Desktop/College/6th-sem/Dotnet/Capitalizer/
+build_property.ProjectDir = /Users/siddharthraut/Desktop/College/6th-sem/Dotnet/Assignment 1/Capitalizer/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -120,6 +120,7 @@
 /Users/siddharthraut/Desktop/College/6th-sem/Dotnet/WebDevelopment/WebApp/Authentication/obj/Debug/net8.0/Authentication.MvcApplicationPartsAssemblyInfo.cache
 /Users/siddharthraut/Desktop/College/6th-sem/Dotnet/WebDevelopment/WebApp/Authentication/obj/Debug/net8.0/Authentication.RazorAssemblyInfo.cache
 /Users/siddharthraut/Desktop/College/6th-sem/Dotnet/WebDevelopment/WebApp/Authentication/obj/Debug/net8.0/Authentication.RazorAssemblyInfo.cs
+/Users/siddharthraut/Desktop/College/6th-sem/Dotnet/WebDevelopment/WebApp/Authentication/obj/Debug/net8.0/Authentication.sourcelink.json
 /Users/siddharthraut/Desktop/College/6th-sem/Dotnet/WebDevelopment/WebApp/Authentication/obj/Debug/net8.0/staticwebassets.build.json
 /Users/siddharthraut/Desktop/College/6th-sem/Dotnet/WebDevelopment/WebApp/Authentication/obj/Debug/net8.0/staticwebassets.development.json
 /Users/siddharthraut/Desktop/College/6th-sem/Dotnet/WebDevelopment/WebApp/Authentication/obj/Debug/net8.0/staticwebassets/msbuild.Authentication.Microsoft.AspNetCore.StaticWebAssets.props
@@ -130,7 +131,7 @@
 /Users/siddharthraut/Desktop/College/6th-sem/Dotnet/WebDevelopment/WebApp/Authentication/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /Users/siddharthraut/Desktop/College/6th-sem/Dotnet/WebDevelopment/WebApp/Authentication/obj/Debug/net8.0/scopedcss/bundle/Authentication.styles.css
 /Users/siddharthraut/Desktop/College/6th-sem/Dotnet/WebDevelopment/WebApp/Authentication/obj/Debug/net8.0/scopedcss/projectbundle/Authentication.bundle.scp.css
-/Users/siddharthraut/Desktop/College/6th-sem/Dotnet/WebDevelopment/WebApp/Authentication/obj/Debug/net8.0/Authentication.csproj.CopyComplete
+/Users/siddharthraut/Desktop/College/6th-sem/Dotnet/WebDevelopment/WebApp/Authentication/obj/Debug/net8.0/Authenti.5C4D8D91.Up2Date
 /Users/siddharthraut/Desktop/College/6th-sem/Dotnet/WebDevelopment/WebApp/Authentication/obj/Debug/net8.0/Authentication.dll
 /Users/siddharthraut/Desktop/College/6th-sem/Dotnet/WebDevelopment/WebApp/Authentication/obj/Debug/net8.0/refint/Authentication.dll
 /Users/siddharthraut/Desktop/College/6th-sem/Dotnet/WebDevelopment/WebApp/Authentication/obj/Debug/net8.0/Authentication.pdb

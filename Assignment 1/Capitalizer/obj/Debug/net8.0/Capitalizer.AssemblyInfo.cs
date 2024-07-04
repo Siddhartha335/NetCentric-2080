@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Capitalizer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f667660db9bfe8d72ad102c680fdad0d07b16f16")]
 [assembly: System.Reflection.AssemblyProductAttribute("Capitalizer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Capitalizer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

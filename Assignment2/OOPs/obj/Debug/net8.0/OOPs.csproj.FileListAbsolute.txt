@@ -1,0 +1,15 @@
+/Users/siddharthraut/Desktop/College/6th-sem/Dotnet/Assignment2/OOPs/bin/Debug/net8.0/OOPs
+/Users/siddharthraut/Desktop/College/6th-sem/Dotnet/Assignment2/OOPs/bin/Debug/net8.0/OOPs.deps.json
+/Users/siddharthraut/Desktop/College/6th-sem/Dotnet/Assignment2/OOPs/bin/Debug/net8.0/OOPs.runtimeconfig.json
+/Users/siddharthraut/Desktop/College/6th-sem/Dotnet/Assignment2/OOPs/bin/Debug/net8.0/OOPs.dll
+/Users/siddharthraut/Desktop/College/6th-sem/Dotnet/Assignment2/OOPs/bin/Debug/net8.0/OOPs.pdb
+/Users/siddharthraut/Desktop/College/6th-sem/Dotnet/Assignment2/OOPs/obj/Debug/net8.0/OOPs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/siddharthraut/Desktop/College/6th-sem/Dotnet/Assignment2/OOPs/obj/Debug/net8.0/OOPs.AssemblyInfoInputs.cache
+/Users/siddharthraut/Desktop/College/6th-sem/Dotnet/Assignment2/OOPs/obj/Debug/net8.0/OOPs.AssemblyInfo.cs
+/Users/siddharthraut/Desktop/College/6th-sem/Dotnet/Assignment2/OOPs/obj/Debug/net8.0/OOPs.csproj.CoreCompileInputs.cache
+/Users/siddharthraut/Desktop/College/6th-sem/Dotnet/Assignment2/OOPs/obj/Debug/net8.0/OOPs.sourcelink.json
+/Users/siddharthraut/Desktop/College/6th-sem/Dotnet/Assignment2/OOPs/obj/Debug/net8.0/OOPs.dll
+/Users/siddharthraut/Desktop/College/6th-sem/Dotnet/Assignment2/OOPs/obj/Debug/net8.0/refint/OOPs.dll
+/Users/siddharthraut/Desktop/College/6th-sem/Dotnet/Assignment2/OOPs/obj/Debug/net8.0/OOPs.pdb
+/Users/siddharthraut/Desktop/College/6th-sem/Dotnet/Assignment2/OOPs/obj/Debug/net8.0/OOPs.genruntimeconfig.cache
+/Users/siddharthraut/Desktop/College/6th-sem/Dotnet/Assignment2/OOPs/obj/Debug/net8.0/ref/OOPs.dll

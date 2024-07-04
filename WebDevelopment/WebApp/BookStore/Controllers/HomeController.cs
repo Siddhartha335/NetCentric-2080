@@ -13,14 +13,30 @@ public class HomeController : Controller
         _logger = logger;
     }
 
-    public IActionResult Index()
+    public IActionResult Index(string name,int age)
     {
-        return View();
+        // return Content("This is me Sid!");
+        // var responseObject = new 
+        //     {
+        //         Message = "This is me Sid!",
+        //         Success = true
+        //     };
+        // return Json(responseObject);
+        var queryResponse = new {
+            Name = name,
+            Age = age
+        };
+        return View(queryResponse);
     }
 
     public IActionResult Privacy()
     {
-        return View();
+        var responseObject = new 
+            {
+                Message = "This is me Sid!",
+                Success = true
+            };
+        return Json(responseObject);
     }
     public IActionResult Test()
     {

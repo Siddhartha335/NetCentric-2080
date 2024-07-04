@@ -1,6 +1,6 @@
-﻿using HelloWorld;
-using Practicing;
-using System;
+﻿// using HelloWorld;
+// using Practicing;
+// using System;
 
 // Console.WriteLine("sdff");
 
@@ -55,7 +55,7 @@ using System;
 
 //Practice
 
-Programs pr = new();
+// Programs pr = new();
 // pr.getValue();
 // int i=20;
 // Console.WriteLine("Value is={0}",i);
@@ -65,10 +65,52 @@ Programs pr = new();
 // pr.Arrays();
 // pr.Jagged();
 // pr.GenericsInAction();
-pr.LearnLinq();
+// pr.LearnLinq();
 
-Practices prac = new();
+// Practices prac = new();
 // prac.show();
-int [] ages = { 1, 2, 3,};
+// int [] ages = { 1, 2, 3,};
 // Console.Write(prac.MinMax(ages));
 // prac.LearnArray();
+
+using System;
+// using Siddhartha;
+
+// Sid sid = new();
+// sid.learnDataType();
+
+// int [] ages = {32,12,45,56,32,43,67};
+// var (result1,result2) = sid.MinMax(ages);
+// Console.WriteLine(result1);
+// Console.WriteLine(result2);
+
+// IndexerClass team = new();
+// team[0] = "Sid";
+// team[1] = "Rista";
+
+// int i=0;
+// while(i<2) {
+//     Console.WriteLine(team[i]);
+//     i++;
+// }
+
+// ComputerStudents sid = new ComputerStudents("Siddhartha",22,"Lagankhel","Rest API Development");
+
+// Console.WriteLine(sid.Address);
+// Console.Write(sid.Display());
+// sid.show();
+
+// Books book1;
+// book1.title = "Harry Potter";
+// book1.author = "J.K Rowling";
+
+// Console.WriteLine(book1.title + " " + book1.author);
+
+using Siddhartha;
+Sid sid = new();
+
+// sid.LearLINQ();
+// sid.LearnFile();
+sid.Method1();
+sid.Method2();
+

@@ -41,6 +41,3 @@ app.MapControllerRoute(
 app.MapRazorPages();
 
 app.Run();
-
-
-// dotnet new mvc --auth Individual           
