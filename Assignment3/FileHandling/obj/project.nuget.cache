@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SVsg08T+PNY=",
+  "success": true,
+  "projectFilePath": "/Users/siddharthraut/Desktop/College/6th-sem/Dotnet/Assignment3/FileHandling/FileHandling.csproj",
+  "expectedPackageFiles": [
+    "/Users/siddharthraut/.nuget/packages/csvhelper/33.0.1/csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
