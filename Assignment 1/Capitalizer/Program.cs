@@ -7,9 +7,9 @@
 
 // string cFullName = fullname.ToUpper();
 
-// Console.WriteLine(fullname,cFullName);
+// // Console.WriteLine(fullname,cFullName);
 
-// Console.WriteLine($"Name:{fullname}, Capital Name:{cFullName}");  //string interpolation $""
+// Console.WriteLine($"Hello {cFullName} JI");  //string interpolation $""
 
 
 
@@ -79,6 +79,6 @@ string getAge() {
         return $"Your age is {years} years, {months} months, and {days} days";
 }
 
-// Console.WriteLine(getAge());
+// // Console.WriteLine(getAge());
 
 Console.Write(getAge());
